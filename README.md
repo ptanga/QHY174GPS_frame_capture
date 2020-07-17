@@ -23,3 +23,6 @@ https://www.qhyccd.com/index.php?m=content&c=index&a=show&catid=30&id=143
 Camera evaluation
 https://www.webastro.net/forums/topic/146765-evaluation-de-la-qhyccd-qhy174-m-monochrome-refroidie-imx-174/
 
+SDK use
+https://www.qhyccd.com/index.php?m=content&c=index&a=show&catid=68&id=190
+
