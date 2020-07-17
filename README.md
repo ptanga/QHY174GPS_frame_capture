@@ -17,6 +17,9 @@ https://forums.sharpcap.co.uk/viewtopic.php?f=28&t=2802&sid=223a2cc81a42d2348e03
 Presentation on QHY web site
 https://www.qhyccd.com/index.php?m=content&c=index&a=show&catid=94&id=46&cut=1
 
+Manual
+https://www.qhyccd.com/index.php?m=content&c=index&a=show&catid=30&id=143
+
 Camera evaluation
 https://www.webastro.net/forums/topic/146765-evaluation-de-la-qhyccd-qhy174-m-monochrome-refroidie-imx-174/
 
