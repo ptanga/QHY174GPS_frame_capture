@@ -1,6 +1,14 @@
 # QHY174GPS_frame_capture
 QHY camera - use of drivers - acquisition test
 
+### Python 3 code
+
+QHY174GPS_frame_capture
+
+It captures and displays a single image. Note that the driver name is hardcoded. 
+
+It requires opencv (cv2) and ctypes. 
+
 ### Useful links 
 
 SDK manual
